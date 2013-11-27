@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="DrawAllocation">
+        <ignore path="src/com/cabot/sampleimageviewzoom/CustomView.java" />
+        <ignore path="src/com/cabot/sampleimageviewzoom/Icon.java" />
+        <ignore path="src/com/cabot/sampleimageviewzoom/TouchImageView.java" />
+    </issue>
+    <issue id="WrongCall">
+        <ignore path="src/com/cabot/sampleimageviewzoom/CustomView.java" />
+        <ignore path="src/com/cabot/sampleimageviewzoom/TouchImageView.java" />
+    </issue>
+</lint>
